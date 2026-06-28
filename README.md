@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0001-two-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
+| [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
