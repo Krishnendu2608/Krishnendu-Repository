@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0344-reverse-string) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0344-reverse-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
