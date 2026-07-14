@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0283-move-zeroes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
@@ -86,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2149-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
