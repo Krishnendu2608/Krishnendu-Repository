@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
