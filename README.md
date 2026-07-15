@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0283-move-zeroes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## String
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 ## Math
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0633-sum-of-square-numbers) |
@@ -84,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
