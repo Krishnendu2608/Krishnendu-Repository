@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
