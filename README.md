@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0414-third-maximum-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0383-ransom-note) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0414-third-maximum-number) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0451-sort-characters-by-frequency) |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -415,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -460,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
