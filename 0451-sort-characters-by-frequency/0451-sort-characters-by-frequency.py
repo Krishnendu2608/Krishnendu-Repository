@@ -1,15 +1,11 @@
+from collections import Counter
 class Solution(object):
     def frequencySort(self, s):
-        frq={}
-        for i in s:
-            if i not in frq:
-                frq[i]=1
-            elif i in frq:
-                frq[i] +=1
-        sorted_char=sorted(frq.keys(),key=lambda x:(frq[x]),reverse=True)
-        result=[]
-        for j in sorted_char:
-            j=j*frq[j]
-            result.append(j)
-        return "".join(result)
+        frq=Counter(s)
+        highest=frq.most_common()
+        arr=[]
+        for key,value in highest:
+            arr.append(key*value)
+        return "".join(arr)
+        
         
