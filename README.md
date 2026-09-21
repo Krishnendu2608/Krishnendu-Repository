@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0151-reverse-words-in-a-string) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0145-binary-tree-postorder-traversal) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0739-daily-temperatures) |
 ## Pigeonhole Principle
 |  |
