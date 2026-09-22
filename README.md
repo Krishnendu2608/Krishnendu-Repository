@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
