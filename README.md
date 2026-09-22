@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2553-separate-the-digits-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2951-find-the-peaks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
 | [2716-minimize-string-length](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1903-largest-odd-number-in-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
