@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0704-binary-search) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0739-daily-temperatures) |
 ## Pigeonhole Principle
 |  |
