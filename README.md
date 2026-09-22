@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2404-most-frequent-even-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2418-sort-the-people) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2418-sort-the-people) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1903-largest-odd-number-in-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
