@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Math
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Bit Manipulation
 |  |
 | ------- |
