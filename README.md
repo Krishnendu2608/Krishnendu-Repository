@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3536-maximum-product-of-two-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
