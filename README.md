@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3536-maximum-product-of-two-digits) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Stack
 |  |
 | ------- |
