@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1029-two-city-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1029-two-city-scheduling) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1833-maximum-ice-cream-bars](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -544,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0287-find-the-duplicate-number) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
