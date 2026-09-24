@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3536-maximum-product-of-two-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3932-count-k-th-roots-in-a-range) |
