@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0520-detect-capital) |
+| [0784-letter-case-permutation](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0342-power-of-four) |
+| [0784-letter-case-permutation](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0784-letter-case-permutation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -574,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
