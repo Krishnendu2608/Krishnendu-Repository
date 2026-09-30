@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0704-binary-search) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1029-two-city-scheduling) |
