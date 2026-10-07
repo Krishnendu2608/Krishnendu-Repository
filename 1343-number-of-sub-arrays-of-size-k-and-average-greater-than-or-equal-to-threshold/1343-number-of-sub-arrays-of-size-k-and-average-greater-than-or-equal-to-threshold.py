@@ -1,15 +1,13 @@
 class Solution(object):
-    def numOfSubarrays(self, nums, k, threshold):
-        curr_sum=sum(nums[:k])
+    def numOfSubarrays(self, arr, k, th):
+        current_sum=sum(arr[0:k])
         count=0
-        avg=float(curr_sum)/k
-        if avg>=threshold:
-            count=count+1
-        for i in range(len(nums)-k):
-            curr_sum=curr_sum - nums[i]
-            curr_sum=curr_sum+ nums[i+k]
-            avg=float(curr_sum)/k
-            if avg>=threshold:
-                count  +=1
-        return count       
-                    
+        if (current_sum)/k>=th:
+            count+=1
+        for i in range(0,len(arr)-k):
+            current_sum-=arr[i]
+            current_sum+=arr[i+k]
+            avg=(current_sum)/k
+            if avg>=th:
+                count+=1
+        return count
