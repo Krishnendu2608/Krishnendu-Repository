@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2549-count-distinct-numbers-on-board) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2090-k-radius-subarray-averages) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
