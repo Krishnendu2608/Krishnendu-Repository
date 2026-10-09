@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1029-two-city-scheduling) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0451-sort-characters-by-frequency) |
+| [0904-fruit-into-baskets](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2090-k-radius-subarray-averages) |
