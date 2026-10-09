@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2942-find-words-containing-character](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
