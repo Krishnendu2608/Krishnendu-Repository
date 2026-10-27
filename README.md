@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0520-detect-capital) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0605-can-place-flowers) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0844-backspace-string-compare) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/David-Blackmist/Krishnendu-Repository/tree/master/0739-daily-temperatures) |
 ## Pigeonhole Principle
